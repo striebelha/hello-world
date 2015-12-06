@@ -1,2 +1,6 @@
-# hello-world
-intro to using GitHub
+hello-world
+===========
+
+Hello!
+
+Striebelha here, just wanted to say hi :)
